@@ -5,7 +5,7 @@ while i >= 100
 
   % for b = 0:1
     % j = i - b
-  j = 999;
+  j = i;
   while j >= 100
     i
     j
